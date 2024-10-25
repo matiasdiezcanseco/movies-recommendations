@@ -8,5 +8,5 @@
 		Find:
 		<Input class="w-96" name="description" />
 	</label>
-	<Button class="w-28">Search</Button>
+	<Button class="w-28" type="submit">Search</Button>
 </form>
